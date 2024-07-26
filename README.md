@@ -1,12 +1,12 @@
 # Global Planner
 ## This repository is for designing and validating a Global Planner <br>
-## that calculates the global path for Autonomous Mobility.
+## that calculates the global path for Autonomous Mobility. <br><br>
 
 
-## How to Use the Source Code
-### Download the Code from the Repository <br>
+## How to Use the Source Code <br>
+### 1. Download the Code from the Repository <br>
 
-### Extract the files and run the Astar.py file <br>
+### 2. Extract the files and run the Astar.py file <br>
 
 Example image <br>
 
