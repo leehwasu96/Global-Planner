@@ -6,7 +6,7 @@ This repository is for designing and validating a Global Planner that calculates
 ## How to Use the Source Code <br>
 1. Download the Code from the Repository <br>
 
-2. Extract the files and run the Astar.py file <br>
+2. Extract the files and run the Astar.py file <br><br>
 
 Example image <br>
 
