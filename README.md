@@ -1,6 +1,5 @@
 # Global Planner
-## This repository is for designing and validating a Global Planner
-## that calculates the global path for Autonomous Mobility. <br><br>
+## This repository is for designing and validating a Global Planner that calculates the global path for Autonomous Mobility. <br><br>
 
 
 ## How to Use the Source Code <br>
