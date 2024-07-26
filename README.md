@@ -8,7 +8,7 @@ This repository is for designing and validating a Global Planner that calculates
 
 2. Extract the files and run the Astar.py file <br><br>
 
-Example image <br>
+## Example image <br>
 
 ![Astar result example](https://github.com/user-attachments/assets/91c3e344-58cc-401e-b039-2255303b6bf3)
 
