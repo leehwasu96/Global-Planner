@@ -3,9 +3,9 @@
 
 
 ## How to Use the Source Code <br>
-### 1. Download the Code from the Repository <br>
+1. Download the Code from the Repository <br>
 
-### 2. Extract the files and run the Astar.py file <br>
+2. Extract the files and run the Astar.py file <br>
 
 Example image <br>
 
